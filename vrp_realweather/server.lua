@@ -1,5 +1,5 @@
 local Config = {
-    apikey = "3e205395433e4f6f8bf181011220605",
+    apikey = "",
     city = "Bucharest",
     refreshTime = 5 * 60000, --min
 }
